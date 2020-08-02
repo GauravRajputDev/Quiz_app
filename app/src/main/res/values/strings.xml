@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dark Quiz</string>
+    <string name="header">How Well Do You Understand Netflix`s Dark? It`s Time to Test Your Knowledge, Tick Tock!</string>
+    <string name="question1">1. Who`s father founded the Winden Power Plant?</string>
+    <string name="question2">2. How does Adam claim to have gotten terrible scars?</string>
+    <string name="question3">3. What is the meaning of \'Sic Mundus Creatus Est\'?</string>
+    <string name="question4">4. How many years into the past or future can one travel in a wormhole?</string>
+    <string name="question5">5. Why did Ulrich decide to become a police officer?</string>
+    <string name="question6">6. What is Aleksander Tiedemann\'s original last name?</string>
+    <string name="question7">7. What is the name of the book written by H.G. Tannhaus that discusses black holes and spacetime?</string>
+    <string name="question8">8. What is Adam\'s endgame?</string>
+    <string name="question9">9. How is Jonas related to Martha?</string>
+    <string name="question10">10. How is the apocalypse finally brought about?</string>
+    <string name="answers">Answers : \n\n1. Helge Doppler \n2. Too much time travel \n3. Thus the world is created \n4. 33 years
+        \n5. He thought he could do a better job than Egon Tiedermann
+    \n6. Kohler  \n7. A Journey Through Time \n8. To create a world without time
+    \n9. nephew \n10. Young Jonas and Claudia turn on the time machine in the caves,
+        \nElisabeth Doppler turns on the machine in 2053,
+        \nMagnus and Franziska turn on the machine in 1921.</string>
+</resources>
